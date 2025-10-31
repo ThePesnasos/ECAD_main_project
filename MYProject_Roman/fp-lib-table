@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "MYProject_Roman")(type "KiCad")(uri "$(KIPRJMOD)/MYProject_Roman.pretty")(options "")(descr ""))
+)
